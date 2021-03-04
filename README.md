@@ -1,2 +1,2 @@
 # kafka-notes
-Lesson notes from Udemy Apache Kafka series
+This repo contains lesson notes from Udemy Apache Kafka series.
